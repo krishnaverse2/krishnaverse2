@@ -1,5 +1,5 @@
 # 💫 About Me:
-𝐇𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈 𝐚𝐦 𝐊𝐫𝐢𝐬𝐡𝐧𝐚🤖 <br>💻 Full-Stack Developer<br><br>🛠 Skills<br>Laravel | PHP | MySQL | React Native | Bootstrap<br><br>🚀 Projects<br><br>SAKHI – Women Healthcare Management System | StudyGo - AI based Smart and Secure Learning Platform | Jalsuchna – Water Supply Notification App<br><br>📈 Always learning, always building
+𝐇𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈 𝐚𝐦 𝐊𝐫𝐢𝐬𝐡𝐧𝐚🤖 <br>💻 Full-Stack Developer<br><br>🛠 Skills<br>Laravel | PHP | MySQL | React Native | Bootstrap<br><br>🚀 Projects<br>SAKHI – Women Healthcare Management System | StudyGo - AI based Smart and Secure Learning Platform | Jalsuchna – Water Supply Notification App<br><br>📈 Always learning, always building
 
 
 ## 🌐 Socials:
