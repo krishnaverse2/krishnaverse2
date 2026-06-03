@@ -23,9 +23,10 @@ Laravel • PHP • MySQL • React Native • Expo • JavaScript • TypeScrip
 
 ## Featured Projects
 
-###  Sakhi | Healthcare (Web + Application) [sakhihealthcare.com]
+###  Sakhi | Healthcare 
 
 Women Healthcare Management System
+
 🔒 Private Repo
 
 **Tags:** Laravel, PHP, MySQL, React Native
@@ -35,6 +36,7 @@ Women Healthcare Management System
 ### 🤖 StudyGo
 
 AI-Based Smart & Secure Learning Platform
+
 🔒 Private Repo
 
 **Tags:** AI, Laravel, React Native, MySQL
@@ -44,6 +46,7 @@ AI-Based Smart & Secure Learning Platform
 ### 💧 Jalsuchna
 
 Water Supply Notification App
+
 🔒 Private Repo
 
 **Tags:** React Native, Laravel API, MySQL
@@ -53,6 +56,7 @@ Water Supply Notification App
 ### 🧘 JanSeva.AI
 
 Ai assistant which gives all information about Government schemes 
+
 🔒 Private Repo
 
 **Tags:** React-Native, PHP, Laravel, MySQL, Bootstrap 
