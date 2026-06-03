@@ -23,33 +23,11 @@
 
 ### 🌸 SAKHI – Women Healthcare Management System
 
-A healthcare platform designed to support women's wellness through:
-
-* Menstrual Cycle Tracking
-* Healthcare Guidance
-* Yoga & Wellness Modules
-* Personalized Recommendations
-
 ### 🤖 StudyGo – AI Based Smart & Secure Learning Platform
-
-An intelligent learning platform featuring:
-
-* AI Powered Learning Assistance
-* Secure Examination System
-* Student Performance Analytics
-* Smart Learning Tools
 
 ### 💧 Jalsuchna – Water Supply Notification App
 
-A smart notification system helping citizens receive:
-
-* Water Supply Updates
-* Area-wise Notifications
-* Real-time Alerts
-* Municipal Information
-
----
-
+------------------------------------------------------------------------------------------------------------
 ## 🛠 Tech Stack
 
 ### Languages
@@ -105,21 +83,6 @@ A smart notification system helping citizens receive:
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=krishnaverse2&theme=tokyonight"/>
 </p>
-
----
-
-## 🎯 2026 Goals
-
-✅ Build impactful products
-
-✅ Master Full Stack Development
-
-✅ Contribute to Open Source
-
-✅ Learn AI & Cloud Technologies
-
-✅ Secure a top Software Engineering role
-
 ---
 
 <p align="center">
