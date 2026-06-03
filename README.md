@@ -1,18 +1,131 @@
-# 💫 About Me:
-𝐇𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈 𝐚𝐦 𝐊𝐫𝐢𝐬𝐡𝐧𝐚🤖 <br>📈🛠 Skills<br>Laravel | PHP | MySQL | React Native | Bootstrap<br><br>🚀 Projects<br>SAKHI – Women Healthcare Management System | StudyGo - AI based Smart and Secure Learning Platform | Jalsuchna – Water Supply Notification App<br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Krishna Sonawane
 
+### 🚀 Full Stack Developer | Laravel Developer | React Native Developer
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishna Sonawane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnasonawane4649@gmail.com) 
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishnaverse2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krishnaverse2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaverse2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💡 Passionate about building impactful digital solutions that solve real-world problems.
+
+🎓 Computer Engineering Student
+
+🌱 Currently learning:
+
+* Advanced React Native
+* Laravel Ecosystem
+* AI Integrations
+* Cloud Technologies
+
+⚡ Building products that create social impact through technology.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishnaverse2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🌸 SAKHI – Women Healthcare Management System
+
+A healthcare platform designed to support women's wellness through:
+
+* Menstrual Cycle Tracking
+* Healthcare Guidance
+* Yoga & Wellness Modules
+* Personalized Recommendations
+
+### 🤖 StudyGo – AI Based Smart & Secure Learning Platform
+
+An intelligent learning platform featuring:
+
+* AI Powered Learning Assistance
+* Secure Examination System
+* Student Performance Analytics
+* Smart Learning Tools
+
+### 💧 Jalsuchna – Water Supply Notification App
+
+A smart notification system helping citizens receive:
+
+* Water Supply Updates
+* Area-wise Notifications
+* Real-time Alerts
+* Municipal Information
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+### Backend & Database
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **[krishnasonawane4649@gmail.com](mailto:krishnasonawane4649@gmail.com)**
+
+💼 Open to:
+
+* Software Development Opportunities
+* Mobile App Development
+* Open Source Collaboration
+* Startup Projects
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krishnaverse2&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaverse2&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=krishnaverse2&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Build impactful products
+
+✅ Master Full Stack Development
+
+✅ Contribute to Open Source
+
+✅ Learn AI & Cloud Technologies
+
+✅ Secure a top Software Engineering role
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnaverse2&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+✨ Turning Ideas Into Real-World Solutions ✨
+</h3>
