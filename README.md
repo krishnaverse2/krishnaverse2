@@ -23,14 +23,9 @@ Laravel • PHP • MySQL • React Native • Expo • JavaScript • TypeScrip
 
 ## Featured Projects
 
-### 🌸 SAKHI
+###  Sakhi | Healthcare (Web + Application) [sakhihealthcare.com]
 
 Women Healthcare Management System
-
-* Menstrual cycle tracking
-* Healthcare guidance & wellness support
-* Yoga and health management modules
-
 🔒 Private Repo
 
 **Tags:** Laravel, PHP, MySQL, React Native
@@ -40,11 +35,6 @@ Women Healthcare Management System
 ### 🤖 StudyGo
 
 AI-Based Smart & Secure Learning Platform
-
-* AI-powered learning assistance
-* Secure examination system
-* Smart student analytics
-
 🔒 Private Repo
 
 **Tags:** AI, Laravel, React Native, MySQL
@@ -54,26 +44,18 @@ AI-Based Smart & Secure Learning Platform
 ### 💧 Jalsuchna
 
 Water Supply Notification App
-
-* Real-time water supply alerts
-* Area-wise notifications
-* Rural & urban water management
-
 🔒 Private Repo
 
 **Tags:** React Native, Laravel API, MySQL
 
 ---
 
-### 🧘 Yoga Management System
+### 🧘 JanSeva.AI
 
-* Yoga trainer management
-* Disease-wise yoga recommendations
-* Wellness tracking features
-
+Ai assistant which gives all information about Government schemes 
 🔒 Private Repo
 
-**Tags:** Laravel, PHP, MySQL, Bootstrap
+**Tags:** React-Native, PHP, Laravel, MySQL, Bootstrap 
 
 ---
 
