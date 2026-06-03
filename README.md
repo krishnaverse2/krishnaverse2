@@ -1,94 +1,88 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Krishna Sonawane
+# Krishna Sonawane
 
-### 🚀 Full Stack Developer | Laravel Developer | React Native Developer
+### Full Stack Developer | Mobile App Developer | AI/ML Explorer
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-💡 Passionate about building impactful digital solutions that solve real-world problems.
-
-🎓 Computer Engineering Student
-
-🌱 Currently learning:
-
-* Advanced React Native
-* Laravel Ecosystem
-* AI Integrations
-* Cloud Technologies
-
-⚡ Building products that create social impact through technology.
+Hi! I'm a passionate Full Stack Developer and Computer Engineering Student. I love building impactful web applications, mobile apps, and smart digital solutions. Skilled in Laravel, PHP, MySQL, React Native, JavaScript, and TypeScript, I'm constantly learning new technologies and creating projects that solve real-world problems.
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🌸 SAKHI – Women Healthcare Management System
-
-### 🤖 StudyGo – AI Based Smart & Secure Learning Platform
-
-### 💧 Jalsuchna – Water Supply Notification App
-
-------------------------------------------------------------------------------------------------------------
-## 🛠 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### Backend & Database
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+* 🚀 Passionate developer building web and mobile applications
+* 📱 Experience with Laravel, React Native, PHP, MySQL, and APIs
+* 🌸 Creator of SAKHI – Women Healthcare Management System
+* 🤖 Currently exploring AI/ML and modern software technologies
 
 ---
 
-## 🌐 Connect With Me
+## Tech Stack
 
-📧 Email: **[krishnasonawane4649@gmail.com](mailto:krishnasonawane4649@gmail.com)**
-
-💼 Open to:
-
-* Software Development Opportunities
-* Mobile App Development
-* Open Source Collaboration
-* Startup Projects
+Laravel • PHP • MySQL • React Native • Expo • JavaScript • TypeScript • Java • Python • C • C++ • Git • Bootstrap
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishnaverse2&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaverse2&layout=compact&theme=tokyonight" height="180"/>
-</p>
+### 🌸 SAKHI
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=krishnaverse2&theme=tokyonight"/>
-</p>
+Women Healthcare Management System
+
+* Menstrual cycle tracking
+* Healthcare guidance & wellness support
+* Yoga and health management modules
+
+🔒 Private Repo
+
+**Tags:** Laravel, PHP, MySQL, React Native
+
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnaverse2&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+### 🤖 StudyGo
 
-<h3 align="center">
-✨ Turning Ideas Into Real-World Solutions ✨
-</h3>
+AI-Based Smart & Secure Learning Platform
+
+* AI-powered learning assistance
+* Secure examination system
+* Smart student analytics
+
+🔒 Private Repo
+
+**Tags:** AI, Laravel, React Native, MySQL
+
+---
+
+### 💧 Jalsuchna
+
+Water Supply Notification App
+
+* Real-time water supply alerts
+* Area-wise notifications
+* Rural & urban water management
+
+🔒 Private Repo
+
+**Tags:** React Native, Laravel API, MySQL
+
+---
+
+### 🧘 Yoga Management System
+
+* Yoga trainer management
+* Disease-wise yoga recommendations
+* Wellness tracking features
+
+🔒 Private Repo
+
+**Tags:** Laravel, PHP, MySQL, Bootstrap
+
+---
+
+## Connect with Me
+
+📧 Email: [krishnasonawane4649@gmail.com](mailto:krishnasonawane4649@gmail.com)
+
+💼 GitHub: github.com/krishnaverse2
+
+---
+
+### ✨ Turning Ideas Into Real-World Solutions ✨
