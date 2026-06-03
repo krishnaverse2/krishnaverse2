@@ -69,6 +69,8 @@ Ai assistant which gives all information about Government schemes
 
 💼 GitHub: github.com/krishnaverse2
 
+💼 LinkedIn: www.linkedin.com/in/krishna-sonawane-248127324
+
 ---
 
 ### ✨ Turning Ideas Into Real-World Solutions ✨
